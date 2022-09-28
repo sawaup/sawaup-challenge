@@ -34,7 +34,6 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 - Well structured docs about the application
 - Persist data on database
 - State Management between (Context api / easy-peasy / redux toolkit / redux / others ...) *IF NEXTJS NO NEED* :eyes:
-- Test : at least one layer of test (backend(unit or integrated) or frontend(unit only) or E2E (Cypress)) - Just choose 1!
 - Desing : BE creative , we like MIUI /Chackra / Tailwind
 - Database : We use Prisma , but feel free to use the best ORM to you. Please use Relational database (Postgres/MySql/Sqlite)
 
@@ -42,15 +41,14 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 - Well structured docs about the application
 - Conventional commits
 - Docker / 1 command script to run the application or Already hosted application (Vercel) :eyes: 
-- E2E tests with Cypress or sellenium 
-
+- E2E tests with Cypress or sellenium or/and unit testing on backend or frontend
 - NextJs
 - Prisma ORM
 
 ### No Needed : 
 - Login / Logout / Signup
 
-Soon as you finish the challenge (5 days maximum) please send a email to our Head of Engineering (fredd@sawaup.com) 
+Soon as you finish the challenge (5 days maximum) please send a email to our Head of Engineering [fredd@sawaup.com](mailto:fredd@sawaup.com)
 with "Coding challenge" subject and the _link of the challenge repository_
 
 Data sample to use : 
