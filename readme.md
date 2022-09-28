@@ -18,7 +18,9 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 
 - User can select min 2 skills and 10 skills maximum
 
-- User will see the list of courses based on the skills selected.
+- User will see the list of courses based on the skills selected (4 courses maximum).
+
+- User will see the list all courses (no maximum).
 
 - If the user change the skills selection , the course list must be changed too.
 
@@ -41,6 +43,7 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 - Conventional commits
 - Docker / 1 command script to run the application or Already hosted application (Vercel) :eyes: 
 - E2E tests with Cypress or sellenium 
+
 - NextJs
 - Prisma ORM
 
@@ -50,8 +53,11 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 Soon as you finish the challenge (5 days maximum) please send a email to our Head of Engineering (fredd@sawaup.com) 
 with "Coding challenge" subject and the _link of the challenge repository_
 
+Data sample to use : 
+[Courses and skills Data](https://docs.google.com/spreadsheets/d/1YE9h20uNXk9lwV9lFcLIMAKyh9r1X0KPnBkHB-vRk4o/edit?usp=sharing)
 
 Simple Wireframe : 
+![wireframe-draft](https://user-images.githubusercontent.com/36821426/192812920-adcd4dd2-015d-4248-8571-9f6cb0e3f174.jpeg)
 
 
 
