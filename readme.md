@@ -24,7 +24,7 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 
 - If the user change the skills selection , the course list must be changed too.
 
-- User can stop and play the course (video)
+- User can see the course (video)
 
 - User can set as Favorite :heart: 
 
