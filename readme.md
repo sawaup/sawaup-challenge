@@ -1,6 +1,12 @@
 ![](https://sawaup.com/assets/icons/sawaup-logo.svg)
 ## Sawaup Fullstack Challenge
 
+### PLEASE CHECK THE BRANCHES
+FRONTEND FOCUSED -> https://github.com/sawaup/sawaup-challenge/blob/fullstack-frontend-focused/readme.md
+BACKEND FOCUSED -> https://github.com/sawaup/sawaup-challenge/blob/fullstack-backend-focused/readme.md
+
+TECH LEAD -> Main Branch
+
 
 ### Welcome to this challenge.
 SawaUp redefines workplace learning to empower organizations and enable high-performing teams.
@@ -29,12 +35,11 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 - User can set as Favorite :heart: 
 
 
-## JR/MID FRONTEND FOCUSED
+## FRONTEND FOCUSED
 
 ### Must Have : 
 - TYPESCRIPT ONLY
 - Well structured docs about the application and decisions
-- Persist data on database
 - State Management between we use ( redux toolkit ) feell free to use others 
 - Desing : BE creative , we like MIUI 
 
@@ -47,7 +52,7 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 - Redux toolkit
 
 
-## JR/MID BACKEND FOCUSED
+## BACKEND FOCUSED
 
 ### Must Have : 
 - TYPESCRIPT ONLY
