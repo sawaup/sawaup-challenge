@@ -33,6 +33,7 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 
 ### Must Have : 
 - TYPESCRIPT ONLY
+- React / Nextjs based frameworks
 - Well structured docs about the application and decisions
 - Persist data on database
 - State Management  we use ( redux toolkit ) feell free to use others 
