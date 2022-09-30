@@ -29,7 +29,7 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 - User can set as Favorite :heart: 
 
 
-## JR/MID FRONTEND FOCUSED
+## FRONTEND FOCUSED
 
 ### Must Have : 
 - TYPESCRIPT ONLY
