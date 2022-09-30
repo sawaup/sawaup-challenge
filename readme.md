@@ -29,30 +29,73 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 - User can set as Favorite :heart: 
 
 
+## JR/MID FRONTEND FOCUSED
+
 ### Must Have : 
 - TYPESCRIPT ONLY
-- Well structured docs about the application
+- Well structured docs about the application and decisions
 - Persist data on database
-- State Management between (Context api / easy-peasy / redux toolkit / redux / others ...) *IF NEXTJS NO NEED* :eyes:
-- Desing : BE creative , we like MIUI /Chackra / Tailwind
+- State Management between we use ( redux toolkit ) feell free to use others 
+- Desing : BE creative , we like MIUI 
+
+### Extra Points :
+- Well structured docs about the application
+- Conventional commits
+- unit testing frontend
+- NextJs (getServerSideProps)
+- Lighthouse or Any Frontend Metrics
+- Redux toolkit
+
+
+## JR/MID BACKEND FOCUSED
+
+### Must Have : 
+- TYPESCRIPT ONLY
+- Well structured docs about the application and decisions
+- Persist data on database
+- Desing CSS or any library
 - Database : We use Prisma , but feel free to use the best ORM to you. Please use Relational database (Postgres/MySql/Sqlite)
 
 ### Extra Points :
 - Well structured docs about the application
 - Conventional commits
 - Docker / 1 command script to run the application or Already hosted application (Vercel) :eyes: 
-- E2E tests with Cypress or sellenium or/and unit testing on backend or frontend
+- Prisma ORM
+- Unit testing on Backend
+- NextJS
+
+
+
+
+## SENIOR ENGINEER > 5yrs XP
+
+### Must Have : 
+- TYPESCRIPT ONLY
+- Well structured docs about the application and decisions
+- Persist data on database
+- State Management  (redux toolkit) or feel free to use other.
+- Desing : BE creative , we like MIUI 
+- Database : We use Prisma , but feel free to use the best ORM to you. Please use Relational database (Postgres/MySql/Sqlite)
+
+### Extra Points :
+- Well structured docs about the application
+- Conventional commits
+- Docker / 1 command script to run the application or Already hosted application (Vercel) :eyes: 
+- E2E tests with Cypress or sellenium or/and unit testing on backend and frontend
 - NextJs
+- Clean architecture / SOLID
 - Prisma ORM
 
 ### No Needed : 
 - Login / Logout / Signup
+
 
 Soon as you finish the challenge (5 days maximum) please send a email to our Head of Engineering [fredd@sawaup.com](mailto:fredd@sawaup.com)
 with "Coding challenge" subject and the _link of the challenge repository_
 
 Data sample to use : 
 [Courses and skills Data](https://docs.google.com/spreadsheets/d/1YE9h20uNXk9lwV9lFcLIMAKyh9r1X0KPnBkHB-vRk4o/edit?usp=sharing)
+(FRONTEND FOCUSED) you can use [MIRAGEJS](https://miragejs.com/) or [SHEETDB](https://sheetdb.io/) *_prefered_ to mock database
 
 Simple Wireframe : 
 ![wireframe-draft](https://user-images.githubusercontent.com/36821426/192812920-adcd4dd2-015d-4248-8571-9f6cb0e3f174.jpeg)
