@@ -35,7 +35,6 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 - TYPESCRIPT ONLY
 - React / Nextjs based frameworks
 - Well structured docs about the application and decisions
-- Persist data on database
 - State Management  we use ( redux toolkit ) feell free to use others 
 - Desing : BE creative , we like MIUI 
 
@@ -43,7 +42,7 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 - Well structured docs about the application
 - Conventional commits
 - unit testing frontend
-- NextJs (getServerSideProps)
+- NextJs 
 - Lighthouse or Any Frontend Metrics
 - Redux toolkit
 
