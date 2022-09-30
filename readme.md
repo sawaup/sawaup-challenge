@@ -2,7 +2,9 @@
 ## Sawaup Fullstack Challenge
 
 ### PLEASE CHECK THE BRANCHES
+
 FRONTEND FOCUSED -> https://github.com/sawaup/sawaup-challenge/blob/fullstack-frontend-focused/readme.md
+
 BACKEND FOCUSED -> https://github.com/sawaup/sawaup-challenge/blob/fullstack-backend-focused/readme.md
 
 TECH LEAD -> Main Branch
