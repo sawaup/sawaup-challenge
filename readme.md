@@ -53,7 +53,7 @@ Typescript / React / Nodejs / Nextjs and Express / Prisma and the Clean Architec
 
 Soon as you finish the challenge (5 days maximum) please send a email to our Head of Engineering [fredd@sawaup.com](mailto:fredd@sawaup.com)
 with "Coding challenge" subject and the _link of the challenge repository_
-
+### Don't push to this Repository , create a new one and send to us the link!
 ### Data sample to use : 
 [Courses and skills Data](https://docs.google.com/spreadsheets/d/1YE9h20uNXk9lwV9lFcLIMAKyh9r1X0KPnBkHB-vRk4o/edit?usp=sharing)
 
